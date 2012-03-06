@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50940ac4-2c96-4044-a431-50baf5b89076" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Dominion-Framework.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -82,7 +82,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="3" column="8" selection-start="23" selection-end="23" vertical-scroll-proportion="0.07058824">
               <folding />
             </state>
           </provider>
@@ -107,6 +107,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/jsunit/app/BaseUiManager.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -478,7 +479,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="3" column="8" selection-start="23" selection-end="23" vertical-scroll-proportion="0.07058824">
           <folding />
         </state>
       </provider>
