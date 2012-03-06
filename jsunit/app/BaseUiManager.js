@@ -20,7 +20,6 @@ JsUnit.BaseUiManager.prototype.problemDetailMessageFor = function (excep) {
             result += '\n\nStack trace follows:\n' + excep.stackTrace;
         return result;
     }
-
     else {
         var result = 'Error message is:\n"';
         result +=
